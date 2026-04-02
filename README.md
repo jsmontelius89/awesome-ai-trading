@@ -72,6 +72,7 @@
 - [Reddit API](https://www.reddit.com/dev/api/) — Scrape r/wallstreetbets and other finance subreddits.
 - [Google Trends](https://trends.google.com/) — Search interest data as a market signal.
 
+- [Congressional Stock Brain](https://congressionalstockbrain.com) — AI-powered platform that scores every U.S. STOCK Act lawmaker trade disclosure by significance, converting 50,000+ public filings into ranked signals for retail investors. Free to use.
 ### Crypto Data
 
 - [CoinGecko](https://www.coingecko.com/en/api) — Comprehensive crypto data API (free tier available).
